@@ -9,4 +9,4 @@ GUIDE:
 
 thats it, now navigate to http://localhost:8080 and/or http://ip_of_server:8080
 
-hope this helps
+on the site you have a little file browser to browse local directories, and then you have a form, you enter all the details such as username, password, ip, local dir, remote dir and so on. You have to be accurate when entering this info, you need to choose if you are backuping directory or a file/files(VERY IMPORTNANT). Clicking backup will trigger backup.sh that will backip your selected file/folder.
